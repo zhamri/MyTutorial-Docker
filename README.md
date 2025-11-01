@@ -1,4 +1,4 @@
-# MyClass-Docker
+# MyTutorial-Docker
 
 ## Get that Linux feeling - on Windows
 https://www.cygwin.com/
